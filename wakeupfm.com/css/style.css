@@ -1,0 +1,147 @@
+
+body{
+
+  padding-top: 1rem;
+
+  
+background-color: #000000;
+
+font-family: "微软雅黑","黑体";
+
+font-size: 20px;color:#ffffff ;
+position:relative;width:100%;min-height:100%;}
+
+ 
+    
+.homepage{
+	margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    padding-top: 12px;
+}
+
+/*#header-wrapper{
+  position: relative;
+ /* background: rgba(255, 255, 255, 0.6);*/
+}
+
+#header{
+  padding: 4em 0em;
+  padding-top: 0px;
+    padding-bottom: 0px;
+}
+header>.banner{
+ width: 500px;
+ height: 150px;	
+ background-image: url(img/wakeuplogo2-01.png);
+}
+.logo{
+	width: 301px;
+	height: 101px;
+}
+a{
+	text-decoration: none;
+	color: #32fde5;
+}
+.my_menu{
+	
+	float: right;
+    margin-bottom: 0px;
+    margin-top: 0px;
+		}
+.my_menu a{
+	text-decoration: none; 
+}
+.my_menu li{
+	list-style-type: none;
+	font-size: 20px
+}
+.my_menu>li{
+	list-style-type: none;
+	border: 1px ;
+	float: left;
+	margin: 20px;
+	padding: 20px;	
+}
+.my_menu li:hover{
+	background: rgba(255, 255, 255, 0.8);
+}
+.my_menu li:hover>a{
+	color: #ffffff;
+}
+#nav{
+	
+}
+/*#nav {
+  text-align: center;
+  position: absolute;
+  top: auto
+  left: 0;
+  width: 100%;
+  height: 4em;
+  cursor: default;
+  bottom: 35px;
+}*/
+#box{
+     /*border: 1px solid gray;*/
+    width: 100%;
+    padding-bottom:50px;
+}
+.main{
+	height: 300px; 
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+ 
+}
+.picture{
+	margin: 00px 0 10px 110px;
+float: left;
+	width: 300px;
+	height: 300px;
+	
+}
+.brief{
+	margin: 10px 0 10px 110px;
+float: left;
+	width: 300px;
+	height: 300px;
+	text-align: center;
+	padding-top:20px ;
+}
+.audio{
+	
+}
+.canvas{
+	width: ;
+}
+footer{
+	position: absolute;  bottom: 0; /* 关键 */  
+   left:0; /* IE下一定要记得 */  
+           /* footer的高度一定要是固定值*/ 
+           width: 1350px;
+    height:260px;position:fixed;bottom:0px;left:0px;}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
